@@ -29,3 +29,9 @@ Better documentation for Mummer can be found at `https://github.com/mummer4/mumm
 A tutorial can be found at `https://mummer4.github.io/tutorial/tutorial.html`
 
 And the manual can be found at `http://mummer.sourceforge.net/manual/`  
+
+
+## Docker Hub:  
+```
+docker pull neranjan007/mummer:4.0.0-ANI-aeromonas
+```  
